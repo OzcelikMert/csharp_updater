@@ -1,0 +1,37 @@
+﻿<Window x:Class="Digigarson_Loader.Loader"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Digigarson_Loader"
+        AllowsTransparency="True"
+        mc:Ignorable="d"
+        Title="Güncelleme Ekranı" Height="300" Width="500" ResizeMode="NoResize" WindowStyle="None" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" Background="Transparent"> 
+    <Grid x:Name="mainGrid" RenderTransformOrigin="0.5,0.5">
+        <Border BorderBrush="#FF000000" BorderThickness="0" CornerRadius="20" Background="#FF303034">
+        </Border>
+        <Grid x:Name="gridTop" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="54,31,54,167">
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal">
+                    <Label x:Name="companyName" Content="Digigarson" HorizontalAlignment="Left" FontSize="48" FontFamily="Berlin Sans FB" Foreground="White"/>
+                    <Label x:Name="versionName" Content="v1.0.0.0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="18" FontFamily="Candara" Foreground="White"/>
+                </StackPanel>
+                <Label x:Name="developerCompanyName" Content="POWERED BY Matrix Teknoloji" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25" FontFamily="Montserrat" Foreground="White"/>
+            </StackPanel>
+        </Grid>
+        <Grid x:Name="gridProgressBar" VerticalAlignment="Bottom" Margin="10,0,10,10">
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal">
+                    <Grid VerticalAlignment="Bottom" HorizontalAlignment="Center">
+                        <Label x:Name="totalSizeText" Content="" HorizontalAlignment="Right" FontSize="15" FontFamily="Segoe UI Black" Foreground="White"/>
+                        <Label x:Name="statusText" Content="Güncelleştirmeler Kontrol Ediliyor" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontSize="18" FontFamily="Mongolian Baiti" Foreground="White"/>
+                        <Label x:Name="downloadedSizeText" Content="" HorizontalAlignment="Right" FontSize="15" FontFamily="Segoe UI Black" Foreground="White"/>
+                    </Grid>
+                </StackPanel>
+                <Border BorderThickness="0" BorderBrush="#FF680000" Background="#FF4B4B4B" CornerRadius="0" Height="15" Margin="0,5,0,0">
+                    <ProgressBar x:Name="progressDownloadBar" Minimum="0" IsIndeterminate="True" Background="{x:Null}" BorderThickness="0" BorderBrush="Transparent" Foreground="#FF2C2CFF" />
+                </Border>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

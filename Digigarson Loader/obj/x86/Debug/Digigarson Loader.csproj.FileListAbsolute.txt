@@ -1,0 +1,67 @@
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Loader.g.cs
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Updater\UpdaterWindow.g.cs
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\App.g.cs
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Loader.baml
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Updater\UpdaterWindow.baml
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson_Loader.Properties.Resources.resources
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson Loader.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson Loader.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson Loader.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\bin\x86\Debug\DigigarsonLoader.exe.config
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\bin\x86\Debug\DigigarsonLoader.exe
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\bin\x86\Debug\DigigarsonLoader.pdb
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader_MarkupCompile.cache
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader_MarkupCompile.lref
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader.g.resources
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader.exe
+C:\Users\Burak\Desktop\Yeni klasör\Digigarson_Loader\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader.pdb
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\bin\x86\Debug\DigigarsonLoader.exe.config
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\bin\x86\Debug\DigigarsonLoader.exe
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\bin\x86\Debug\DigigarsonLoader.pdb
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson Loader.csprojAssemblyReference.cache
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Loader.g.cs
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Updater\UpdaterWindow.g.cs
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\App.g.cs
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader_MarkupCompile.cache
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader_MarkupCompile.lref
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Loader.baml
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Updater\UpdaterWindow.baml
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader.g.resources
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson_Loader.Properties.Resources.resources
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson Loader.csproj.GenerateResource.cache
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson Loader.csproj.CoreCompileInputs.cache
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader.exe
+C:\Users\Akif\Desktop\Digigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader.pdb
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\DigigarsonLoader.exe.config
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\DigigarsonLoader.exe
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\DigigarsonLoader.pdb
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\mscorlib.dll
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\sortkey.nlp
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\sorttbls.nlp
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\big5.nlp
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\bopomofo.nlp
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\ksc.nlp
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\prc.nlp
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\prcp.nlp
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\xjis.nlp
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\normidna.nlp
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\normnfc.nlp
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\normnfd.nlp
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\normnfkc.nlp
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\bin\x86\Debug\normnfkd.nlp
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson Loader.csproj.AssemblyReference.cache
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson Loader.csproj.SuggestedBindingRedirects.cache
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\Loader.g.cs
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\Updater\UpdaterWindow.g.cs
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\App.g.cs
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader_MarkupCompile.cache
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader_MarkupCompile.lref
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\Loader.baml
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\Updater\UpdaterWindow.baml
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader.g.resources
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson_Loader.Properties.Resources.resources
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson Loader.csproj.GenerateResource.cache
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson Loader.csproj.CoreCompileInputs.cache
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\Digigarson Loader.csproj.CopyComplete
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader.exe
+F:\Arşiv\MasaüstüKarma\İŞ\en sonDigigarson_Loader\Digigarson Loader\obj\x86\Debug\DigigarsonLoader.pdb
